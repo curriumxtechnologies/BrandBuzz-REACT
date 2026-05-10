@@ -40,7 +40,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-wave flex items-end justify-center pb-3 text-xs text-white">
-        All rights reserved 2025
+        All rights reserved 2026
       </div>
     </footer>
   );
